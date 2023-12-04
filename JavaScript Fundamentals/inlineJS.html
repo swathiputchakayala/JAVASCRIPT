@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first JS Code</title>
+    
+    <script>
+         //<!--JAVASCRIPT CODE-->
+        // 1. In line JS Code is here
+        console.log('Welcome! this is my first start in js ')
+        console.log('Done by inline script tag-inline scripting and this is generally not used')
+    </script>
+    <!--Externaml file for js-->
+    <!--in externaljs.js file in head tag-->
+    <!--<script src="./ExternalJS.js"></script>-->
+<!--in externaljs.js file in head tag with differ attribute-->
+    <script src="./ExternalJS.js" defer></script>
+    
+</head>
+<body>
+    <h1>My First JS Code</h1>
+<p>Defer attribute is used or awakes only after the html document is first executed . So this is used as an asynchronious function</p>
+<!--Body tag for external js-->
+<script src="./trail.js" async ></script>
+<!--Html in event handeler attributes-->\
+<h3>Html in event handeler attributes</h3>
+<button onclick="console.log('hi')">Click ME</button>
+<!--js in url-->
+<h3>JS in URLfrom html</h3>
+ <a href="javascript:console.log('Register Sucess')">Rehister</a>
+</body>
+</html>

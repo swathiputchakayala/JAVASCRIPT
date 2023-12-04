@@ -1,0 +1,1 @@
+console.log("This is for async in external js code")
