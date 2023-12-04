@@ -1,0 +1,133 @@
+Understanding Variables
+
+- Variables are containers for storing, manipulating, and retrieving data throughout a program.
+
+- Variables are placeholders for values that can change over time or during program execution.
+
+- Variables enable data storage, reuse, readability, and updating.
+
+- Variable declaration reserves memory space for data storage.
+
+- Variables are fundamental building blocks in programming, enabling more complex and dynamic programs.
+
+
+
+JavaScript Data Types
+
+- Data types specify the kind of data that can be stored and manipulated.
+
+- There are two categories of data types: Primitive (Basic) and Non-primitive (Reference).
+
+
+
+Primitive Data Types
+
+- String: Represents a sequence of characters.
+
+- Number: Represents numeric values.
+
+- Boolean: Represents logical entities, true or false.
+
+- Undefined: Represents a declared but unassigned variable.
+
+- Null: Represents a null or no value.
+
+- Symbol: An immutable primitive value that is unique.
+
+
+
+Non-Primitive Data Types
+
+- Object: Represents an instance storing values and functions.
+
+- Array: Represents a group of similar values.
+
+- Function: Represents a set of statements that performs a task or calculates a value.
+
+
+
+Examples of Primitive and Non-primitive Data Types
+
+- Examples of primitive data types: 'John Doe', 3050.75, true, undefined, null, Symbol('id')
+
+- Examples of non-primitive data types: user object, transactionAmounts array, greetUser function
+
+
+
+Assigning Values to Variables
+
+- Direct assignment: Declare a variable and assign a value simultaneously.
+
+- Assignment after declaration: Declare a variable first, then assign a value.
+
+- Re-assignment: Assign a new value to an already declared variable.
+
+- Assignment via user input: Assign a value to a variable based on user input.
+
+
+
+Examples of Variable Assignment
+
+- Examples of direct assignment: 'Apple iPhone 13', 0.07, 15.00
+
+- Examples of assignment after declaration: 'Jane Smith', '12345ABC'
+
+- Example of re-assignment: 72 to 75
+
+- Example of assignment via user input: userFeedback via prompt function
+
+
+
+Best Practices for Naming Variables
+
+- Use Camel Case for variable names.
+
+- Use meaningful and descriptive names for variables.
+
+- Start variable names with a letter.
+
+- Avoid using reserved words for variable names.
+
+- Use constants for values that don't change.
+
+- Use all caps for constant values.
+
+
+
+Examples of Good and Bad Variable Naming
+
+- Good example: 'Thomas'
+
+- Bad example: 'u' or '1name' or 'for'
+
+- Example of constant: PI = 3.14
+
+- Example of all caps constant: MAXIMUM_AGE = 100
+
+Course content
+Play
+154. Section Objectives Objectives
+1min
+Play
+155. What is a variable?
+2min
+Play
+156. Variables Syntax
+3min
+Play
+157. Variable Declaration Code Examples
+6min
+Play
+158. Data Types Explained
+4min
+Play
+159. Install Better Comment Extension
+1min
+Play
+160. Data Types Demo
+9min
+Start
+161. SECTION SUMMARY (TEXT ONLY)
+1min
+Start
+Quiz 5: Possible Interview Questions (JS Variables )
