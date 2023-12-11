@@ -43,4 +43,3 @@ let numbers=[100,20,375,2545]
     comsole.log("good morning! drink me");
  }
 
- 
