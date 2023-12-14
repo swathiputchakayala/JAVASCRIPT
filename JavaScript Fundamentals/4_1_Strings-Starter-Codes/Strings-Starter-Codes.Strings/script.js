@@ -223,7 +223,7 @@ const lastIndx = myText.lastIndexOf('apple')
 
 //Specifying the from index
 // const result = myText.lastIndexOf('apple',12)
-
+// it starts searching about the words from the 12th idex
 
 //---------
 //==STRING INCLUDES===
